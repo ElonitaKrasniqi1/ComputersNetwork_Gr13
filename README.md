@@ -11,7 +11,7 @@ Pajisje fundore që përdoren janë:
 - Printer;
 - VoIP pajisje;
 - Generic Wireless;
-- Wireless access point. 
+- Wireless access point.
 Pajisjet të cilat përdoren në mënyrë që rrjeta të jetë funksionale janë:
 - Switch;
 - Routers;
